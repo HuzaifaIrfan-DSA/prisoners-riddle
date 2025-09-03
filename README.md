@@ -1,16 +1,43 @@
 # Prisoners-Riddle
+**`The Riddle That Seems Impossible Even If You Know The Answer`**
 
-Developed on : 2 JULY 2022
+Developed on : 2 July 2022
+
+<!-- •[Link](#)
+
+<hr>
+
+## 🎬 Demo Video
+
+[![Demo](https://img.youtube.com/vi/video_id/0.jpg)](https://www.youtube.com/watch?v=video_id)
+
+![overview](overview.drawio.png)
+
+-->
 
 
-## Description
-
-The Riddle That Seems Impossible Even If You Know The Answer
  
-https://www.youtube.com/watch?v=iSNsgj1OCLA
+
+## ✅ Output
+
+# 🚀 Usage
+## Run
+```sh
+uv run main.py
+```
 
 
-### Contact
-* Email : [huzaifairfan2001@gmail.com](mailto:huzaifairfan2001@gmail.com)
-* Website : [huzaifairfan.com](http://huzaifairfan.com/)
+# 📚 References
 
+## 🎬 Template Video
+[![Demo](https://img.youtube.com/vi/iSNsgj1OCLA/0.jpg)](https://www.youtube.com/watch?v=iSNsgj1OCLA)
+
+# 🤝🏻 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/Github-%23222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaIrfan/)
+[![Website](https://img.shields.io/badge/Website-%23222.svg?style=for-the-badge&logo=google-chrome&logoColor==%234285F4)](https://www.huzaifairfan.com)
+[![Email](https://img.shields.io/badge/Email-%23222.svg?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:hi@huzaifairfan.com)
+
+# 📜 License
+
+Licensed under the MIT License, Copyright 2025 Huzaifa Irfan. [LICENSE](LICENSE)
