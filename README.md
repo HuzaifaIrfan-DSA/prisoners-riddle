@@ -1,7 +1,6 @@
 # Prisoners-Riddle
 **`The Riddle That Seems Impossible Even If You Know The Answer`**
 
-Developed on : 2 July 2022
 
 <!-- •[Link](#)
 
@@ -40,3 +39,5 @@ uv run main.py
 # 📜 License
 
 Licensed under the MIT License, Copyright 2025 Huzaifa Irfan. [LICENSE](LICENSE)
+
+Last Updated on 2022-07-02
